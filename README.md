@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DS,ML and NLP**
 
-- 💬 Ask me about **HTML,CSS,JavaScript,Bootstrap,Jquery,React js,React native,python Django,Firebase**
+- 💬 Ask me about **HTML,CSS,Sass,JavaScript,Bootstrap,Jquery,React js,React native,python Django,Firebase**
 
 - 📫 How to reach me **ajmal.fayiz1016@gmail.com**
 
