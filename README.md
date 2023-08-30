@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Uniflix](https://ajf1016.github.io/Uniflix-Landingpage/)
 
-- 🌱 I’m currently learning **DS,ML and NLP**
+- 🌱 Focusing **ML and NLP**
 
 - 💬 Ask me about **HTML,CSS,Sass,JavaScript,Bootstrap,Jquery,React js,React native,python Django,Firebase**
 
