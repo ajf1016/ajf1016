@@ -66,8 +66,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ajf1016/ajf1016/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
