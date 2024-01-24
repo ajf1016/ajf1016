@@ -1,24 +1,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajf1016&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<h2 align="left"></h2>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/codeynagata/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="proyoung451@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBpejN5YnR2NnU1czNpZjcxNTF5anhseDgzYTB6NG5vbDk0cjkxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kc089aLlIeUY9bfcIy/giphy.gif"  />
 
 ###
